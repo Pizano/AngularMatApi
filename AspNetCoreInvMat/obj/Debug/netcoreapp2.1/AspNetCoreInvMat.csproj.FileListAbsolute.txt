@@ -1,0 +1,14 @@
+C:\Users\cepizano\source\repos\AspNetCoreInvMat\AspNetCoreInvMat\obj\Debug\netcoreapp2.1\AspNetCoreInvMat.csproj.CoreCompileInputs.cache
+C:\Users\cepizano\source\repos\AspNetCoreInvMat\AspNetCoreInvMat\obj\Debug\netcoreapp2.1\AspNetCoreInvMat.RazorAssemblyInfo.cache
+C:\Users\cepizano\source\repos\AspNetCoreInvMat\AspNetCoreInvMat\bin\Debug\netcoreapp2.1\AspNetCoreInvMat.deps.json
+C:\Users\cepizano\source\repos\AspNetCoreInvMat\AspNetCoreInvMat\bin\Debug\netcoreapp2.1\AspNetCoreInvMat.runtimeconfig.json
+C:\Users\cepizano\source\repos\AspNetCoreInvMat\AspNetCoreInvMat\bin\Debug\netcoreapp2.1\AspNetCoreInvMat.runtimeconfig.dev.json
+C:\Users\cepizano\source\repos\AspNetCoreInvMat\AspNetCoreInvMat\bin\Debug\netcoreapp2.1\AspNetCoreInvMat.dll
+C:\Users\cepizano\source\repos\AspNetCoreInvMat\AspNetCoreInvMat\obj\Debug\netcoreapp2.1\AspNetCoreInvMat.RazorAssemblyInfo.cs
+C:\Users\cepizano\source\repos\AspNetCoreInvMat\AspNetCoreInvMat\obj\Debug\netcoreapp2.1\AspNetCoreInvMat.AssemblyInfoInputs.cache
+C:\Users\cepizano\source\repos\AspNetCoreInvMat\AspNetCoreInvMat\obj\Debug\netcoreapp2.1\AspNetCoreInvMat.AssemblyInfo.cs
+C:\Users\cepizano\source\repos\AspNetCoreInvMat\AspNetCoreInvMat\obj\Debug\netcoreapp2.1\AspNetCoreInvMat.RazorTargetAssemblyInfo.cache
+C:\Users\cepizano\source\repos\AspNetCoreInvMat\AspNetCoreInvMat\bin\Debug\netcoreapp2.1\AspNetCoreInvMat.pdb
+C:\Users\cepizano\source\repos\AspNetCoreInvMat\AspNetCoreInvMat\obj\Debug\netcoreapp2.1\AspNetCoreInvMat.dll
+C:\Users\cepizano\source\repos\AspNetCoreInvMat\AspNetCoreInvMat\obj\Debug\netcoreapp2.1\AspNetCoreInvMat.pdb
+C:\Users\cepizano\source\repos\AspNetCoreInvMat\AspNetCoreInvMat\obj\Debug\netcoreapp2.1\AspNetCoreInvMat.csprojAssemblyReference.cache
